@@ -11,13 +11,6 @@ Manual diagnosis of osteoarthritis can be time-consuming and subjective. By appl
 
 ---
 
-## 📂 Dataset
-
-- **Source:** Osteoarthritis Initiative (OAI) or similar open-source datasets
-- **Content:** Grayscale or color medical images annotated with severity levels (e.g., Kellgren-Lawrence grades)
-
----
-
 ## 🧪 Model Used
 
 - ✅ **Convolutional Neural Network (CNN)**
